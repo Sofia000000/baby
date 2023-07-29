@@ -1,0 +1,14 @@
+body {
+    height: 96%;
+    font: oblique bold 120% arial;
+    color: #fff;
+    padding: 0 2ex;
+    background: url(liloystitch.png) no-repeat center center fixed;
+    background-size: cover;
+    z-index: 0;
+}
+
+.nombre {
+    -webkit-text-stroke: 1.5px black;
+    color: #fff; 
+  }
